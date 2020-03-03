@@ -1,4 +1,4 @@
-# solid-design-pattern-demo-template
+# solid-design-principle-demo-template
 1) This application just only contain app structure demo template considering SOLID Design pattern.</br>
 2) This app has structure like payment gateway, which process payment for Credit card and Debit Card only but by considering SOLID principle "Open for extension and Close modification", we can add processing for wallets or other payment method as well.</br>
 3) In case of Credit card payment functionality, before making payment it checks for Credit Card limit (don't compare with real world functionality).</br>
